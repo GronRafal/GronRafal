@@ -2,13 +2,14 @@
 
 **Building AI-powered search for WordPress**
 
-## 🚀 Current Project: Queryra
+## 🚀 Queryra – AI Search That Understands What Customers Mean
 
-AI search that's trained on YOUR content - not generic ChatGPT.
+Intent-aware semantic search trained on YOUR content — not generic ChatGPT.
 
-- 🔌 [WordPress Plugin](https://github.com/GronRafal/queryra-wordpress-plugin) - Transform WordPress search in 5 minutes
-- 🌐 [Queryra.com](https://queryra.com) - AI semantic search platform
-- 💡 No ChatGPT key needed - everything included
+- 🔌 **[WordPress Plugin](https://wordpress.org/plugins/queryra-ai-search/)** — install in 5 minutes, no OpenAI key needed
+- 🛒 **WooCommerce & Shopify** — searches products, categories & attributes
+- 🌐 **[Queryra.com](https://www.queryra.com)** — AI semantic search platform
+- ⚡ **v1.1.5** — batched import, configurable cache, content type filtering
 
 ## 🛠️ Tech Stack
 
